@@ -1,0 +1,51 @@
+[{
+"title":"vashisht",
+"categeoy":"student",
+"price":"400000000"
+},
+{
+    "title":"varun",
+    "categeoy":"student",
+    "price":"400"
+},
+{
+    "title":"vivek",
+    "category":"student",
+    "price":"600"
+},
+{
+    "title":"yash",
+    "category":"teacher",
+    "price":"4"
+},
+{
+    "title":"saurav",
+    "category":"drinker",
+    "price":"408790"
+},
+{
+    "title":"vishal",
+    "category":"six",
+    "price":"6000"
+},
+{
+    "title":"banana",
+    "category":"food",
+    "price":"45"
+},
+{
+    "title":"varun2",
+    "category":"others",
+    "price":"4000"
+},
+{
+    "title":"apples",
+    "category":"food",
+    "price":"456"
+},
+{
+    "title":"gauva",
+    "category":"food",
+    "price":"679"
+}
+]

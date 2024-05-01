@@ -1,0 +1,58 @@
+[
+    {
+      "Title": "Wireless Keyboard",
+      "Category": "Electronics",
+      "Price": 55.99
+    },
+    {
+      "Title": "Professional Studio Headphones",
+      "Category": "cloths",
+      "Price": 99.99
+    },
+    {
+      "Title": "High-Performance Running Shoes",
+      "Category": "Sportswear",
+      "Price": 89.00
+    },
+    {
+      "Title": "Smart Fitness Watch",
+      "Category": "Electronics",
+      "Price": 75.50
+    },
+    {
+      "Title": "Advanced Yoga Mat",
+      "Category": "cloths",
+      "Price": 65.00
+    },
+    {
+      "Title": "Electric Toothbrush",
+      "Category": "Personal Care",
+      "Price": 59.95
+    },
+    {
+      "Title": "Bluetooth Speaker",
+      "Category": "Electronics",
+      "Price": 80.00
+    },
+    {
+      "Title": "Eco-Friendly Water Bottle",
+      "Category": "Fitness",
+      "Price": 50.00
+    },
+    {
+      "Title": "Premium Coffee Maker",
+      "Category": "Kitchen Appliances",
+      "Price": 99.95
+    },
+    {
+      "Title": "Gourmet Knife Set",
+      "Category": "Kitchen Appliances",
+      "Price": 70.00
+    },
+    {
+      "Title": "Insulated Camping Tent",
+      "Category": "Outdoor",
+      "Price": 95.00
+    }
+  ]
+  
